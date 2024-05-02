@@ -10,4 +10,4 @@ https://www.gdaily.org/21262/location-cleaned-ios
 
 # IOS 17↑
 
-替代品 : https://github.com/davesc63/GeoPort/releases 
+替代品GeoPort : https://github.com/davesc63/GeoPort
